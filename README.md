@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @franzk
-- 👀 I’m interested in mobile development
-- 🌱 I’m currently learning kotlin
-- 💞️ I’m looking to collaborate on mobile apps
-- 📫 How to reach me koehler.francois@gmail.com
+- 👋 Bonjour, je suis @franzk
+- 🌱 Je suis en train de suivre la formation diplômante "Développeur d'application JAVA" de Openclassrooms 
+- 📫 Comment me contacter : koehler.francois@gmail.com
 
 <!---
 franzk/franzk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
