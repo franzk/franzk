@@ -5,12 +5,6 @@ Bonjour à tous 👋 ! Merci de visiter mon profil Github 😊
   
 ![Java](https://img.shields.io/badge/-JAVA-00A7BB?style=for-the-badge&logo=java&logoColor=white)
 ![Spring boot](https://img.shields.io/badge/-SPRING%20BOOT-6eb442?style=for-the-badge&logo=spring&logoColor=white)
-![Spring Web](https://img.shields.io/badge/-SPRING%20WEB-397200?style=for-the-badge&logo=spring&logoColor=white)
-![Spring JPA](https://img.shields.io/badge/-SPRING%20DATA%20JPA-8db411?style=for-the-badge&logo=spring&logoColor=white)
-![Spring Data](https://img.shields.io/badge/-SPRING%20DATA%20MONGODB-8db411?style=for-the-badge&logo=spring&logoColor=white)
-![Spring cloud gateway](https://img.shields.io/badge/-SPRING%20CLOUD%20GATEWAY-8db411?style=for-the-badge&logo=spring&logoColor=white)
-![Spring Security](https://img.shields.io/badge/-SPRING%20SECURITY-1a5900?style=for-the-badge&logo=spring&logoColor=white)
-![Netflix Eureka](https://img.shields.io/badge/-NETFLIX%20EUREKA-e71e2f?style=for-the-badge&logo=spring&logoColor=white)  
 ![Maven](https://img.shields.io/badge/-MAVEN-black?style=for-the-badge&logo=apachemaven&logoColor=white)
 ![Gradle](https://img.shields.io/badge/-GRADLE-02303A?style=for-the-badge&logo=gradle&logoColor=white)
 ![Jacoco](https://img.shields.io/badge/-JACOCO-810a00?style=for-the-badge)
